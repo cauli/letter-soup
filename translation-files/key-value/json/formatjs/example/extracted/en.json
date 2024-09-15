@@ -1,18 +1,22 @@
 {
-    "hak27d": {
-      "defaultMessage": "Control Panel",
-      "description": "title of control panel section"
-    },
-    "haqsd": {
-      "defaultMessage": "Delete user {name}",
-      "description": "delete button"
-    },
-    "19hjs": {
-      "defaultMessage": "New Password",
-      "description": "placeholder text"
-    },
-    "explicit-id": {
-      "defaultMessage": "Confirm Password",
-      "description": "placeholder text"
-    }
+  "x9f2k": {
+    "defaultMessage": "Letter Soup Kitchen",
+    "description": "title of main game area"
+  },
+  "m7p3q": {
+    "defaultMessage": "Stir the pot with {letter}",
+    "description": "action button for adding a letter"
+  },
+  "t5h8n": {
+    "defaultMessage": "New Recipe",
+    "description": "button to start a new game"
+  },
+  "w2j6r": {
+    "defaultMessage": "Serve Word Soup",
+    "description": "button to submit a completed word"
+  },
+  "explicit-id": {
+    "defaultMessage": "Alphabet Broth: {score} points",
+    "description": "score display"
   }
+}

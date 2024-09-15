@@ -1,18 +1,22 @@
 {
-    "hak27d": {
-      "defaultMessage": "Panneau de configuration",
-      "description": "title of control panel section"
-    },
-    "haqsd": {
-      "defaultMessage": "Supprimer l'utilisateur {name}",
-      "description": "delete button"
-    },
-    "19hjs": {
-      "defaultMessage": "nouveau mot de passe",
-      "description": "placeholder text"
-    },
-    "explicit-id": {
-      "defaultMessage": "Confirmez le mot de passe",
-      "description": "placeholder text"
-    }
+  "x9f2k": {
+    "defaultMessage": "Cuisine de Soupe de Lettres",
+    "description": "title of main game area"
+  },
+  "m7p3q": {
+    "defaultMessage": "Remuez la marmite avec {letter}",
+    "description": "action button for adding a letter"
+  },
+  "t5h8n": {
+    "defaultMessage": "Nouvelle Recette",
+    "description": "button to start a new game"
+  },
+  "w2j6r": {
+    "defaultMessage": "Servir la Soupe de Mots",
+    "description": "button to submit a completed word"
+  },
+  "k4l9s": {
+    "defaultMessage": "Bouillon Alphabétique : {score} points",
+    "description": "score display"
   }
+}

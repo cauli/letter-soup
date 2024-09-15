@@ -8,9 +8,9 @@ It works by extracting messages from the source code and storing them in a JSON 
 
 - "Extracted format" (`formatjs extract`) files have a different format than the "Translation format"
 
-### Extracted format
+### File structure (extracted file)
 
-By default, running the `formatjs extract` command will create in a similar format to below:
+By default, running the `formatjs extract` command will create a single file in a similar format to below:
 
 ```json
 {
@@ -21,7 +21,7 @@ By default, running the `formatjs extract` command will create in a similar form
 }
 ```
 
-But it also supports custom formats for the services below:
+But it also supports custom structures for the services below:
 
 | Service                     | --format  |
 | --------------------------- | --------- |
